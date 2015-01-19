@@ -1,0 +1,19 @@
+{
+	"name": "brabijan/vat-validation",
+	"type": "library",
+	"description": "Little wrapper for VIES api",
+	"keywords": ["vies", "eu", "vat"],
+	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"authors": [
+		{
+			"name": "Jan Brabec"
+		}
+	],
+	"support": {
+		"email": "brabijan@gmail.com",
+		"issues": "https://github.com/brabijan/vat_validation/issues"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
